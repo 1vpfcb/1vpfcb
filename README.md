@@ -25,7 +25,7 @@ Whether it's UI quirks or backend gremlins, I’ve got the test case ready.
 | Category | Tools |
 |---------|-------|
 | 🧰 Automation | Selenium, Cypress, Playwright |
-| 💻 Languages | Python, JavaScript, | HTML | CSS
+| 💻 Languages | Python , JavaScript, HTML, CSS
 | 🧪 Testing | Postman, REST Assured, JUnit, PyTest |
 | 🧠 Test Management | TestRail, Zephyr, Xray |
 | 🐞 Bug Tracking | JIRA, Bugzilla |

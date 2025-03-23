@@ -2,7 +2,12 @@
 
 ![Code Testing](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Welcome to my GitHub! I'm a passionate Quality Assurance Engineer focused on building reliable, testable, and efficient software. I thrive on solving complex bugs, automating test workflows, and ensuring a smooth end-user experience.
+#### Hey there, fellow devs 👾
+Welcome to my corner of GitHub — where tests break before your code does 💥
+I'm a Quality Assurance Engineer with a sharp eye for bugs, a love for clean automation, and a mission to break things before users do.
+I script tests like poetry, hunt bugs like a sniper, and live for that green ✅ on the CI pipeline.
+
+Whether it's UI quirks or backend gremlins, I’ve got the test case ready.
 
 ---
 

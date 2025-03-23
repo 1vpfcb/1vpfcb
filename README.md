@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👩‍💻 Hi, I'm a QA Engineer!
 
-<!--
-**1vpfcb/1vpfcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Code Testing](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate Quality Assurance Engineer focused on building reliable, testable, and efficient software. I thrive on solving complex bugs, automating test workflows, and ensuring a smooth end-user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 About Me
+
+- 💼 QA Engineer with experience in **manual** and **automated testing**
+- 🧪 Skilled in writing **test cases**, **bug reports**, and **automation scripts**
+- 🔧 Love working with **Selenium, Postman, JIRA, Cypress, Python, JavaScript**
+- 📈 Focused on **performance**, **reliability**, and **continuous integration**
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Category | Tools |
+|---------|-------|
+| 🧰 Automation | Selenium, Cypress, Playwright |
+| 💻 Languages | Python, JavaScript, | HTML | CSS
+| 🧪 Testing | Postman, REST Assured, JUnit, PyTest |
+| 🧠 Test Management | TestRail, Zephyr, Xray |
+| 🐞 Bug Tracking | JIRA, Bugzilla |
+| 🚀 CI/CD | Jenkins, GitHub Actions, CircleCI |
+| 📋 Others | Git, Docker, VS Code |
+
+---
+
+
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📬 Email: youremail@example.com
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+

@@ -2,13 +2,13 @@
 
 ![Code Testing](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-#### Hey there, fellow devs 👾
-Welcome to my corner of GitHub — where tests break before your code does 💥
-I'm a Quality Assurance Engineer with a sharp eye for bugs, a love for clean automation, and a mission to break things before users do.
-I script tests like poetry, hunt bugs like a sniper, and live for that green ✅ on the CI pipeline.
+#### Hey there, fellow devs 👾 <br>
+Welcome to my corner of GitHub — where tests break before your code does 💥<br>
+I'm a Quality Assurance Engineer with a sharp eye for bugs, a love for clean automation, and a mission to break things before users do.<br>
+I script tests like poetry, hunt bugs like a sniper, and live for that green ✅ on the CI pipeline. <br>
 
 Whether it's UI quirks or backend gremlins, I’ve got the test case ready.
-
+####
 ---
 
 ## 🔍 About Me

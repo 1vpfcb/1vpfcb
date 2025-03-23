@@ -35,10 +35,11 @@ Welcome to my GitHub! I'm a passionate Quality Assurance Engineer focused on bui
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📬 Email: youremail@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/viktp/)
+- 📬 Email: 1vpfcbarca7@gmail.com
 
 ---
 
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
+> _"Семь раз отмерь, один отрежь." - Russian proverb

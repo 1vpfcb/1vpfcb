@@ -45,6 +45,6 @@ Whether it's UI quirks or backend gremlins, I’ve got the test case ready.
 
 ---
 
->_“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+>__“Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
->_"Семь раз отмерь, один отрежь." - Russian proverb
+>__"Семь раз отмерь, один отрежь." - Russian proverb

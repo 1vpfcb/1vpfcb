@@ -41,7 +41,7 @@ Whether it's UI quirks or backend gremlins, I’ve got the test case ready.
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/viktp/)
-- 📬 Email: 1vpfcbarca7@gmail.com
+- 📬 Email: pervushkin.qa@gmail.com
 
 ---
 
